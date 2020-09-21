@@ -22,7 +22,7 @@
         android:id="@+id/btn_signUP"
         style="@style/ButtonStyle"
         android:layout_gravity="center"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="200dp"
         android:background="@drawable/btn_design_blue"
         android:text="Sign up!" />
 
